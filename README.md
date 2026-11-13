@@ -65,7 +65,7 @@ mern_booking_system/
 ### Installation
 
 ```bash
-git clone https://github.com/vijaygovindBiju/mern_booking_system.git
+git clone https://github.com/JustPirate/mern_booking_system.git
 cd mern_booking_system/booking_system
 npm install
 ```
